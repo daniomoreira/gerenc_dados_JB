@@ -1,0 +1,14 @@
+
+Arquivo original ex_04_original.xls
+
+1) Criei um novo arquivo para trabalhar com os dados: medidas_ex_04
+
+2) Juntei as tabelas das três abas do arquivo anterior, transformando-as em apenas uma
+
+3) As variáveis de medidas estão nas colunas (as medidas estão em cm):
+	compSep - comprimento da sépala	
+	larSep - largura da sépala
+	comPet - comprimento da pétala
+	larPet - largura da pétala
+
+	
