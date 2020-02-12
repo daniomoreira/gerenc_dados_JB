@@ -18,3 +18,5 @@ help(read.table)
 
 Tab_medidas <- read.csv ("./data/ex_04_formatado.csv", header = T, sep = ";")
 Tab_medidas
+
+# Fim
